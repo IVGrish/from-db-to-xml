@@ -1,0 +1,65 @@
+ <shop id="1">
+   <name>Blue Chvorost</name>
+   <url>ololo.shop.by</url>
+   <working_time>
+     <open>10:00</open>
+     <close>23:00</close>
+   </working_time>
+   <offers>
+     <item id="1">
+       <name>laska</name>
+       <description>hello laska</description>
+       <price>25.8</price>
+     </item>
+     <item id="2">
+       <name>kompot</name>
+       <description>hello kompot</description>
+       <price>5.6</price>
+     </item>
+   </offers>
+ </shop>
+ <shop id="2">
+   <name>Giant Berries</name>
+   <url>hahaha.wildberries.mu</url>
+   <working_time>
+     <open>9:00</open>
+     <close>21:00</close>
+   </working_time>
+   <offers>
+     <item id="3">
+       <name>okno</name>
+       <description>good okno</description>
+       <price>314.15</price>
+     </item>
+   </offers>
+ </shop>
+ <shop id="3">
+   <name>Jeru Olivie</name>
+   <url>err.composy.net</url>
+   <working_time>
+     <open>10:00</open>
+     <close>21:00</close>
+   </working_time>
+   <offers>
+     <item id="4">
+       <name>fujofara</name>
+       <description>sayonara fujofara</description>
+       <price>76.89</price>
+     </item>
+   </offers>
+ </shop>
+ <shop id="4">
+   <name>Taraka Ichiban</name>
+   <url>rarara.okibatsu.jp</url>
+   <working_time>
+     <open>6:00</open>
+     <close>22:00</close>
+   </working_time>
+   <offers>
+     <item id="5">
+       <name>computer</name>
+       <description>excellent computer</description>
+       <price>1244.15</price>
+     </item>
+   </offers>
+ </shop>
